@@ -2765,6 +2765,13 @@ blocks:
     type: TRAPDOOR
     opacity: 0
 
+  - id: 169
+    idStr: sea_lantern
+    name: Sea Lantern
+    mapcolor: [100, 100, 100]
+    tex: [0, 0]
+    brightness: 15
+
   - id: 170
     idStr: hay_block
     name: Hay Block
