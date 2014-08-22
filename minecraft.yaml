@@ -2913,3 +2913,101 @@ blocks:
       12:
         name: Tall Plant Top
         tex: [5, 3]
+
+  - id: 180
+    idStr: red_sandstone_stairs
+    name: Red Sandstone Stairs
+    mapcolor: [100, 100, 100]
+    tex: [0, 0]
+    type: STAIRS
+
+  - id: 188
+    idStr: spruce_fence
+    name: Spruce Fence
+    mapcolor: [100, 100, 100]
+    tex: [0, 0]
+    type: FENCE
+    opacity: 0
+
+  - id: 189
+    idStr: birch_fence
+    name: Birch Fence
+    mapcolor: [100, 100, 100]
+    tex: [0, 0]
+    type: FENCE
+    opacity: 0
+
+  - id: 190
+    idStr: jungle_fence
+    name: Jungle Fence
+    mapcolor: [100, 100, 100]
+    tex: [0, 0]
+    type: FENCE
+    opacity: 0
+
+  - id: 191
+    idStr: dark_oak_fence
+    name: Dark Oak Fence
+    mapcolor: [100, 100, 100]
+    tex: [0, 0]
+    type: FENCE
+    opacity: 0
+
+  - id: 192
+    idStr: acacia_fence
+    name: Acacia Fence
+    mapcolor: [100, 100, 100]
+    tex: [0, 0]
+    type: FENCE
+    opacity: 0
+
+  - id: 193
+    idStr: spruce_door
+    name: Spruce Door
+    mapcolor: [100, 100, 100]
+    tex: [1, 5]
+    type: DOOR
+    tex_extra:
+      bottom: [1, 6]
+    opacity: 0
+
+  - id: 194
+    idStr: birch_door
+    name: Birch Door
+    mapcolor: [100, 100, 100]
+    tex: [1, 5]
+    type: DOOR
+    tex_extra:
+      bottom: [1, 6]
+    opacity: 0
+
+  - id: 195
+    idStr: jungle_door
+    name: Jungle Door
+    mapcolor: [100, 100, 100]
+    tex: [1, 5]
+    type: DOOR
+    tex_extra:
+      bottom: [1, 6]
+    opacity: 0
+
+  - id: 196
+    idStr: acacia_door
+    name: Acacia Door
+    mapcolor: [100, 100, 100]
+    tex: [1, 5]
+    type: DOOR
+    tex_extra:
+      bottom: [1, 6]
+    opacity: 0
+
+  - id: 197
+    idStr: dark_oak_door
+    name: Dark Oak Door
+    mapcolor: [100, 100, 100]
+    tex: [1, 5]
+    type: DOOR
+    tex_extra:
+      bottom: [1, 6]
+    opacity: 0
+
