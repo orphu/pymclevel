@@ -2921,6 +2921,13 @@ blocks:
     tex: [0, 0]
     type: STAIRS
 
+  - id: 182
+    idStr: stone_slab2
+    name: Red Sandstone Slab
+    mapcolor: [100, 100, 100]
+    tex: [0, 0]
+    type: HALFHEIGHT
+
   - id: 188
     idStr: spruce_fence
     name: Spruce Fence
