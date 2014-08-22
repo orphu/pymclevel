@@ -2928,6 +2928,46 @@ blocks:
     tex: [0, 0]
     type: HALFHEIGHT
 
+  - id: 183
+    idStr: spruce_fence_gate
+    name: Spruce Fence Gate
+    mapcolor: [100, 100, 100]
+    tex: [0, 0]
+    type: FENCE_GATE
+    opacity: 0
+
+  - id: 184
+    idStr: birch_fence_gate
+    name: Birch Fence Gate
+    mapcolor: [100, 100, 100]
+    tex: [0, 0]
+    type: FENCE_GATE
+    opacity: 0
+
+  - id: 185
+    idStr: jungle_fence_gate
+    name: Jungle Fence Gate
+    mapcolor: [100, 100, 100]
+    tex: [0, 0]
+    type: FENCE_GATE
+    opacity: 0
+
+  - id: 186
+    idStr: dark_oak_fence_gate
+    name: Dark Oak Fence Gate
+    mapcolor: [100, 100, 100]
+    tex: [0, 0]
+    type: FENCE_GATE
+    opacity: 0
+
+  - id: 187
+    idStr: acacia_fence_gate
+    name: Acacia Fence Gate
+    mapcolor: [100, 100, 100]
+    tex: [0, 0]
+    type: FENCE_GATE
+    opacity: 0
+
   - id: 188
     idStr: spruce_fence
     name: Spruce Fence
