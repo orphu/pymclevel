@@ -2914,6 +2914,29 @@ blocks:
         name: Tall Plant Top
         tex: [5, 3]
 
+  - id: 176
+    idStr: standing_banner
+    name: Standing Banner 
+    mapcolor: [100, 100, 100]
+    tex: [0, 0]
+    type: DECORATION_CROSS
+    opacity: 0
+
+  - id: 177
+    idStr: wall_banner
+    name: Wall Banner 
+    mapcolor: [100, 100, 100]
+    tex: [0, 0]
+    type: DECORATION_CROSS
+    opacity: 0
+
+  - id: 178
+    idStr: daylight_detector_inverted
+    name: Inverted Daylight Sensor
+    mapcolor: [100, 100, 100]
+    tex: [0, 0]
+    opacity: 0
+
   - id: 180
     idStr: red_sandstone_stairs
     name: Red Sandstone Stairs
